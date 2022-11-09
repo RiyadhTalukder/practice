@@ -1,0 +1,163 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+}
+
+.sec1 {
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 7%;
+    margin-right: 6%;
+}
+
+.focus_sec1 {
+    margin-top: 120px;
+}
+
+.half-wid {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-wid img {
+    width: 90%;
+    padding-bottom: 40px;
+    margin-top: 5%;
+}
+
+.color1 {
+    font-weight: 400px;
+    color: yellowgreen;
+}
+
+.link-button {
+    padding: 8px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 700px;
+    color: whitesmoke;
+    background-image: repeating-radial-gradient(rgb(244, 131, 3), rgb(243, 60, 5) 10px);
+    box-shadow: 10px 10px 10px rgba(231, 84, 11, 0.655);
+}
+
+#ptag1 {
+    margin-top: 50px;
+}
+
+.myaimline {
+    text-size-adjust: 400px;
+    text-align: center;
+}
+
+.txth1 {
+    font-size: 50px;
+}
+
+.sec2 {
+    display: flex;
+}
+
+.div3-1 {
+    display: flex;
+    margin-left: 14%;
+}
+
+.wid3-1 {
+    width: 24%;
+    padding-right: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.illustrator {
+    width: 150px;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+.wid-color1 {
+    background-color: rgba(40, 227, 227, 0.153);
+}
+
+.wid-color2 {
+    background-color: rgba(23, 104, 197, 0.158);
+}
+
+.wid-color3 {
+    background-color: rgba(240, 219, 193, 0.189);
+}
+
+.sec3 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.wid2-1 {
+    width: 40%;
+    padding-left: 50px;
+}
+
+.wid22 {
+    margin-top: 50px;
+}
+
+.wid2-1 img {
+    width: 70%;
+    margin-left: 50px;
+}
+
+.color4 {
+    font-size: xx-large;
+    color: lightseagreen;
+}
+
+.btn-div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.code {
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+    padding-left: 80px;
+    padding-top: 40px;
+}
+
+.wid2-11 {
+    width: 40%;
+    padding-left: 14%;
+}
+
+.wid2-11 img {
+    width: 350px;
+    padding-right: 300px;
+}
+
+.project-png {
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 170px;
+    padding-bottom: 70px;
+}
+
+.sec4 {
+    background-color: rgb(9, 19, 20);
+    padding-bottom: 10px;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.fh2 {
+    text-align: center;
+    color: rgba(250, 235, 215, 0.699);
+}
+
+.fp {
+    text-align: center;
+    color: rgba(230, 209, 183, 0.792);
+}
